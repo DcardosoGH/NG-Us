@@ -6,9 +6,9 @@
 export const environment = {
   production: false,
   firebase: {
-    apiKey: "AIzaSyCxmTNxmkvO_ADyb_DFvRRHyxFJjrv2-vk",
+    apiKey: "",
     authDomain: "ng-us-pic.firebaseapp.com",
-    databaseURL: "https://ng-us-pic.firebaseio.com",
+    databaseURL: "https://ng-us-pic.firebaseio.com"
     projectId: "ng-us-pic",
     storageBucket: "ng-us-pic.appspot.com",
     messagingSenderId: "67177299"
